@@ -13,6 +13,10 @@ Hash search entails creating the hashtable and perform linear search inside the 
 1. Create empty lists (buckets) based on how we generate the hashcode
 2. Allocate the data into the corresponding buckets
 
+There are two situations included in this introduction:
+* Searching for integers: We generate the hashcode based on the integer
+* Searching for strings: We use ord() function to extract the unicode of the first character of the string, then generate the hashcode
+
 # Slides and Code
 Hashtables_Slides.pdf contains the slides we used in our presentation. In Hashtables_Introduction.ipynb in this repository, we present the fundamental steps for implementing hashtables and hashsearch on integers and strings. We also use lolviz package to illustrate the idea of hashtables:
 
