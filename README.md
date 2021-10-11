@@ -3,6 +3,6 @@ In the real world, we always need to extract information from millions of record
 If we use time complexity to compare the efficiency of the linear search and the hashtable search, it is obvious that the time complexity of hashtable search O[n/b] (n is the length of the dataset and b is the number of buckets) is much better than the time complexity of linear search O[n].
 
 ![Alt](https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/slide_image1.png)
-![Alt](https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/slide_image2.png)
+![Alt](https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/slides_image2.png)
 ![Alt](https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/code_image.png)
 
