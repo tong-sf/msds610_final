@@ -15,7 +15,7 @@ Hash search entails creating the hashtable and perform linear search inside the 
 
 There are two situations included in this introduction:
 * Searching for integers: We generate the hashcode based on the integer.
-* Searching for strings: We use ord() function to extract the unicode of the first character of the string, then generate the hashcode.
+* Searching for strings: We use the ord() function to extract the Unicode of the first character of the string, then generate the hashcode.
 
 # Slides and Code
 * Hashtables_Slides.pdf:  It contains the slides we used in our presentation. We introduce the reasons that why we should use hashtables in searching.
