@@ -10,12 +10,12 @@ In the real world, we always need to extract information from millions of record
 If we use time complexity to compare the efficiency of the linear search and the hashtable search, it is obvious that the time complexity of hashtable search O[n/b] (n is the length of the dataset and b is the number of buckets) is much better than the time complexity of linear search O[n].
 
 Hash search entails creating the hashtable and perform linear search inside the specific bucket in the hashtable. To implement a hashtable, the followings are the main procedures:
-1. Create empty lists (buckets) based on how we generate the hashcode
-2. Allocate the data into the corresponding buckets
+1. Create empty lists (buckets) based on how we generate the hashcode.
+2. Allocate the data into the corresponding buckets.
 
 There are two situations included in this introduction:
-* Searching for integers: We generate the hashcode based on the integer
-* Searching for strings: We use ord() function to extract the unicode of the first character of the string, then generate the hashcode
+* Searching for integers: We generate the hashcode based on the integer.
+* Searching for strings: We use ord() function to extract the unicode of the first character of the string, then generate the hashcode.
 
 # Slides and Code
 Hashtables_Slides.pdf contains the slides we used in our presentation. In Hashtables_Introduction.ipynb in this repository, we present the fundamental steps for implementing hashtables and hashsearch on integers and strings. We also use lolviz package to illustrate the idea of hashtables:
