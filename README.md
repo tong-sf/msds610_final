@@ -3,7 +3,7 @@
 
 <img src="https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/slide_image1.png" width="500" height="400"/>
 
-In the real world, we always need to extract information from millions of records. However, the most common searching method, linear search, is not sufficient in such a situation. Then we need a Hash Table, which partitions the search space into many regions (termed as buckets) and assigns values to the corresponding regions using the modulo operator. If we want to search a specific value from that, we just need to do a linear search within the target bucket after locating it, instead of going through the whole dataset. Thus we can find the desired value efficiently:
+In the real world, we always need to extract information from millions of records. However, the most common searching method, linear search, is not sufficient in such a situation. Then we need hashtables, which partitions the search space into many regions (termed as buckets) and assigns values to the corresponding regions using the modulo operator. If we want to search a specific value from that, we just need to do a linear search within the target bucket after locating it, instead of going through the whole dataset. Thus we can find the desired value efficiently:
 
 <img src="https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/slides_image2.png" width="800" height="400"/>
 
