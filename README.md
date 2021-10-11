@@ -18,7 +18,8 @@ There are two situations included in this introduction:
 * Searching for strings: We use ord() function to extract the unicode of the first character of the string, then generate the hashcode.
 
 # Slides and Code
-Hashtables_Slides.pdf contains the slides we used in our presentation. In Hashtables_Introduction.ipynb in this repository, we present the fundamental steps for implementing hashtables and hashsearch on integers and strings. We also use lolviz package to illustrate the idea of hashtables:
+* Hashtables_Slides.pdf:  It contains the slides we used in our presentation. We introduce the reasons that why we should use hashtables in searching.
+* Hashtables_Introduction.ipynb: It presents the fundamental steps for implementing hashtables and hash search on integers and strings. We also use the lolviz package to illustrate the idea of hashtables as the following:
 
 <img src="https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/code_image.png" width="800" height="500"/>
 
