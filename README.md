@@ -12,3 +12,6 @@ Hashtables_Slides.pdf contains the slides we used in our presentation. In Hashta
 
 ![Alt](https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/code_image.png)
 
+# Summary
+Hashtables are used to significantly increase the searching efficiency. In the process of implementing hash search, the most important step is to construct the hashtable based on the method in which we decide to generate the hashcode.
+
