@@ -24,5 +24,5 @@ There are two situations included in this introduction:
 <img src="https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/code_image.png" width="800" height="500"/>
 
 # Summary
-Hash table is a very useful data structure for us to search information from millions of records, and hash search can help us increase the searching efficiency significantly. In the process of implementing hash search, the most important step is to construct the hashtable based on the method in which we decide to generate the hashcode.
+Hashtable is a very useful data structure for us to search information from millions of records, and hash search can help us increase the searching efficiency significantly. In the process of implementing hash search, the most important step is to construct the hashtable based on the method in which we decide to generate the hashcode.
 
