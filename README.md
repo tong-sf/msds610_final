@@ -7,8 +7,8 @@ In the real world, we always need to extract information from millions of record
 
 If we use time complexity to compare the efficiency of the linear search and the hashtable search, it is obvious that the time complexity of hashtable search O[n/b] (n is the length of the dataset and b is the number of buckets) is much better than the time complexity of linear search O[n].
 
-# Code
-In 
+# Slides and Code
+Hashtables_Slides.pdf contains the slides we used in our presentation. In Hashtables_Introduction.ipynb in this repository, we present the fundamental steps for implementing hashtables and hashsearch on integers and strings. We also use lolviz package to illustrate the idea of hashtables.
 
 ![Alt](https://github.com/tong-sf/msds610_final/blob/main/imagesforreadme/code_image.png)
 
